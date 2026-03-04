@@ -2,11 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum.
+    p El componente formativo aborda los fundamentos y las etapas clave de la ejecución de la auditoría interna, desde las generalidades del proceso y la comunicación con la organización auditada, hasta la asignación de roles, la recolección de información preliminar y la realización de la reunión de apertura. Asimismo, desarrolla la recopilación y documentación de evidencias, la identificación de no conformidades, la formulación de correcciones y acciones correctivas, y el seguimiento para verificar su eficacia. Finalmente, integra la reunión de cierre y la finalización de la auditoría, incluyendo la elaboración del informe y el cierre formal del proceso, consolidando una visión estructurada, técnica y orientada a la mejora continua del sistema de gestión.
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.col-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="En la síntesis se presenta un mapa conceptual que organiza de manera jerárquica las etapas del proceso de auditoría interna, desde las generalidades y la comunicación inicial, pasando por la recolección de evidencias y el tratamiento de no conformidades, hasta la reunión de cierre y la finalización del proceso.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
