@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="82.453" height="82.364" viewBox="0 0 82.453 82.364">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_458178" data-name="Rectángulo 458178" width="82.453" height="82.365" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1099776" data-name="Grupo 1099776" transform="translate(0.453 0.879)">
+    <g id="Grupo_1099618" data-name="Grupo 1099618" transform="translate(1.711 0.277)">
+      <rect id="Rectángulo_401104" data-name="Rectángulo 401104" width="79.17" height="80.124" transform="translate(0)" fill="none"/>
+    </g>
+    <g id="Grupo_1207339" data-name="Grupo 1207339" transform="translate(-0.453 -0.879)">
+      <g id="Grupo_1207338" data-name="Grupo 1207338" clip-path="url(#clip-path)">
+        <path id="Trazado_1265658" data-name="Trazado 1265658" d="M68.706,0V24.777c1.625-.032,3.32-.224,4.487,1.125a13.257,13.257,0,0,1,.941,1.589v9.557h5.545c1.427,0,3.351,3.3,2.61,4.734L67.765,81.061a3.879,3.879,0,0,1-2.708,1.3L2.616,82.254A3.6,3.6,0,0,1,.262,80.125C-.261,59.651.186,39.046.036,18.523c.357-2.845,2.827-3.762,5.428-3.421V5.427H9.712v-2.6h4.012V0ZM65.874,2.832H16.555V37.048H65.874Zm-52.151,2.6-1.416.354v38.11a11.41,11.41,0,0,0,1.416-2.95ZM9.712,8.259H8.3V55.218L9.712,51.8ZM5.464,17.934c-.843.106-1.973-.318-2.6.354V69.849l2.6-6.489ZM71.3,37.048V27.963c-.677-.771-1.668-.593-2.6-.59v9.675ZM17.145,39.88,2.918,78.283c-.176.319-.006,1.241.3,1.241H65.284l.6-.814L79.445,41.536a1.423,1.423,0,0,0-.239-1.656Z" transform="translate(0)" fill="#fff"/>
+        <path id="Trazado_1265659" data-name="Trazado 1265659" d="M100.181,87.037l32.99-.055c2.011.168,2.134,2.706,0,2.842H100.6a1.41,1.41,0,0,1-.416-2.787" transform="translate(-75.669 -66.456)" fill="#fff"/>
+        <path id="Trazado_1265660" data-name="Trazado 1265660" d="M100.181,125.555l32.99-.055c2.011.168,2.134,2.706,0,2.842H100.6a1.41,1.41,0,0,1-.416-2.787" transform="translate(-75.669 -95.885)" fill="#fff"/>
+        <path id="Trazado_1265661" data-name="Trazado 1265661" d="M99.661,44.963l17.959-.055c1.095.168,1.162,2.706,0,2.842H99.888c-1.016-.091-1.151-2.182-.227-2.787" transform="translate(-75.669 -34.311)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
