@@ -146,7 +146,7 @@
           #t_6_2.titulo-segundo.color-acento-contenido.mb-3
             h4 Ejemplo  informe de auditoría 
           p Con el fin de fortalecer el aprendizaje práctico, se presenta como material de apoyo el #[b Anexo_Informe_de_auditoria], correspondiente a un informe real de auditoría (ajustado para fines formativos), el cual permite al aprendiz identificar la estructura, redacción técnica y forma de presentación de los hallazgos.
-          a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_Informe_de_auditoria.doc')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_Informe_de_auditoria.docx')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     p.mb-0(data-aos="fade-down") Este anexo facilita la comprensión de cómo se documentan profesionalmente los resultados de una auditoría y cómo se comunican a la organización auditada.
@@ -154,7 +154,8 @@
     #t_6_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.3 Cierre formal del proceso
     p(data-aos="fade-down") El cierre formal del proceso de auditoría representa la culminación técnica y administrativa del ejercicio auditor. En esta etapa se verifica que todas las actividades planificadas hayan sido ejecutadas, que los hallazgos estén debidamente comunicados y que las responsabilidades para su tratamiento hayan quedado claramente definidas.
-    p.mb-5(data-aos="fade-down") El cierre no se limita a la entrega del informe, sino que implica dejar establecidas las condiciones para el seguimiento posterior y la mejora continua del sistema de gestión.
+    p(data-aos="fade-down") El cierre no se limita a la entrega del informe, sino que implica dejar establecidas las condiciones para el seguimiento posterior y la mejora continua del sistema de gestión.
+    p.mb-5(data-aos="fade-down") Entre las actividades que consolidan el cierre formal se encuentran:
     .BG02.mb-5(data-aos="flip-up")
       .row.justify-content-center.align-items-center(data-aos="fade-down")
         .col-lg-4.d-none.d-lg-block

@@ -371,10 +371,10 @@
               p.text-center Lugares o áreas físicas donde se realizará la auditoría.
     p.mb-5(data-aos="fade-down") La asignación no debe realizarse de forma arbitraria, sino considerando criterios técnicos y éticos como:
     .row.justify-content-center.align-items-center.mb-5
-      .col.col-lg-4.col-8.order-lg-1.order-1
+      .col.col-lg-4.col-8.order-lg-1.order-1.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/tema1/img45.svg', alt='Imagen decorativa')
-      .col.col-lg-8.order-lg-2.order-2
+      .col.col-lg-8.col-12.order-lg-2.order-2
         .row.justify-content-center
           .col
             .tarjeta.tarjeta--C01.p-4

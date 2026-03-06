@@ -193,23 +193,23 @@
             li
               .lista-ol--cuadro__vineta
                 span.text-bold 1
-              | Confirmar el plan de auditoría previamente enviado.
+              | Planificar la obtención de evidencias conforme a los criterios y alcance definidos.
             li
               .lista-ol--cuadro__vineta
                 span.text-bold 2
-              | Presentar al equipo auditor y sus funciones.
+              | Solicitar información pertinente y suficiente.
             li
               .lista-ol--cuadro__vineta
                 span.text-bold 3
-              | Registrar los asistentes y presentar a los participantes por parte de la organización.
+              | Verificar que la evidencia sea objetiva, verificable y relacionada con los criterios de auditoría.
             li
               .lista-ol--cuadro__vineta
                 span.text-bold 4
-              | Confirmar los objetivos, alcance y criterios de auditoría.
+              | Documentar adecuadamente los hallazgos en los papeles de trabajo.
             li
               .lista-ol--cuadro__vineta
                 span.text-bold 5
-              | Verificar el cronograma, horarios y posibles ajustes de última hora.
+              | Custodiar la información con confidencialidad.
       .col-lg-4.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/tema3/img22.svg', alt='Imagen decorativa')
