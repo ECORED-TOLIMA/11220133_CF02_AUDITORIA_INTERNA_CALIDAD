@@ -31,7 +31,7 @@
       .col.col-lg-9.position-relative
         .avatar
           figure
-            img(src="@/assets/curso/tema5/img03.svg", alt="Imagen decorativa").img310
+            img(src="@/assets/curso/tema5/img03.svg", alt="Imagen decorativa").img285
         .crd.crd--avatarHorizontal.crd--first.py-4
           .row.align-items-center
             .col-auto

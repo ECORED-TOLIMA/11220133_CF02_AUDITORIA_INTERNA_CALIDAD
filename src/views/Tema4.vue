@@ -47,7 +47,7 @@
                     //-   h2 Pódcast
                     TarjetaAudio.color-acento-botones.mb-3(
                     texto="Pódcast"
-                    :audio="require('@/assets/curso/audio/Podcast.mp3')"
+                    :audio="require('@/assets/curso/audio/Podcast_CF2.mp3')"
                     @audio-hover="mostrarIndicadorTarjetaAudio = false"
                 )
                     .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
